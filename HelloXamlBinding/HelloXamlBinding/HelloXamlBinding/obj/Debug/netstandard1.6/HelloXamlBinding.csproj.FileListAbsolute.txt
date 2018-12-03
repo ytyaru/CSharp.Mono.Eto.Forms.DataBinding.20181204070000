@@ -1,0 +1,9 @@
+/tmp/work/Projects/HelloXamlBinding/HelloXamlBinding/HelloXamlBinding/bin/Debug/netstandard1.6/HelloXamlBinding.deps.json
+/tmp/work/Projects/HelloXamlBinding/HelloXamlBinding/HelloXamlBinding/bin/Debug/netstandard1.6/HelloXamlBinding.dll
+/tmp/work/Projects/HelloXamlBinding/HelloXamlBinding/HelloXamlBinding/bin/Debug/netstandard1.6/HelloXamlBinding.pdb
+/tmp/work/Projects/HelloXamlBinding/HelloXamlBinding/HelloXamlBinding/obj/Debug/netstandard1.6/HelloXamlBinding.csprojAssemblyReference.cache
+/tmp/work/Projects/HelloXamlBinding/HelloXamlBinding/HelloXamlBinding/obj/Debug/netstandard1.6/HelloXamlBinding.csproj.CoreCompileInputs.cache
+/tmp/work/Projects/HelloXamlBinding/HelloXamlBinding/HelloXamlBinding/obj/Debug/netstandard1.6/HelloXamlBinding.AssemblyInfoInputs.cache
+/tmp/work/Projects/HelloXamlBinding/HelloXamlBinding/HelloXamlBinding/obj/Debug/netstandard1.6/HelloXamlBinding.AssemblyInfo.cs
+/tmp/work/Projects/HelloXamlBinding/HelloXamlBinding/HelloXamlBinding/obj/Debug/netstandard1.6/HelloXamlBinding.dll
+/tmp/work/Projects/HelloXamlBinding/HelloXamlBinding/HelloXamlBinding/obj/Debug/netstandard1.6/HelloXamlBinding.pdb

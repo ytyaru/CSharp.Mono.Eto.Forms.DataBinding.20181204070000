@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloXamlBinding", "HelloXamlBinding\HelloXamlBinding\HelloXamlBinding.csproj", "{F8D444BC-1DB1-404A-87B1-3C82A35A582F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloXamlBinding.Desktop", "HelloXamlBinding\HelloXamlBinding.Desktop\HelloXamlBinding.Desktop.csproj", "{BCE2F71E-C791-4439-9662-247945177B91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8D444BC-1DB1-404A-87B1-3C82A35A582F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D444BC-1DB1-404A-87B1-3C82A35A582F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D444BC-1DB1-404A-87B1-3C82A35A582F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D444BC-1DB1-404A-87B1-3C82A35A582F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE2F71E-C791-4439-9662-247945177B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE2F71E-C791-4439-9662-247945177B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE2F71E-C791-4439-9662-247945177B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE2F71E-C791-4439-9662-247945177B91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

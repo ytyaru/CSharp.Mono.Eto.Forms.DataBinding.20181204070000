@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{BCE2F71E-C791-4439-9662-247945177B91}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloXamlBinding/HelloXamlBinding/MainForm.xeto">
+    <Files>
+      <File FileName="HelloXamlBinding/HelloXamlBinding/UrlModel.cs" Line="19" Column="1" />
+      <File FileName="HelloXamlBinding/HelloXamlBinding/MainForm.xeto" Line="5" Column="8" />
+      <File FileName="HelloXamlBinding/HelloXamlBinding/MainForm.xeto.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HelloXamlBinding.Desktop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
